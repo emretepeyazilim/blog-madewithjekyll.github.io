@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4fd680b7-d7ac-4bff-8a0e-82ae8b83ee7f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/navbar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-01-26-dinosaurs.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-01-27-dreams.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-01-28-exploration.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-01-29-prophecy.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-01-30-heartbeats.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-01-31-man-must-explore.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/bg-index.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/bg-index.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/posts/01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/posts/01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/posts/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iletisim.html" beforeDir="false" afterPath="$PROJECT_DIR$/iletisim.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +39,7 @@
       <workItem from="1603717617029" duration="502000" />
       <workItem from="1603791253940" duration="75000" />
       <workItem from="1603810008063" duration="1901000" />
+      <workItem from="1603812177187" duration="624000" />
     </task>
     <servers />
   </component>
